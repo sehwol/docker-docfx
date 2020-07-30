@@ -1,6 +1,11 @@
-# docker-docfx
+# Quick reference
 
-> The Dockerfile for DocFX, a static documentation generator.
+- **GitHub Link:** https://www.github.com/sehwol/docker-docfx
+- **DockerHub Link:** https://hub.docker.com/r/daemoncore/docfx
 
-dockerhub: https://hub.docker.com/repository/docker/daemoncore/docfx
-docfx: https://github.com/dotnet/docfx
+
+# What is DocFX
+
+DocFX is a static documentation generator.
+<br/>
+https://github.com/dotnet/docfx
