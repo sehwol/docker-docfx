@@ -3,7 +3,7 @@ FROM mono:latest
 RUN set -ex; \
     \
     apt-get update; \
-    apt-get -y --no-install-recommends install unzip; \
+    apt-get -y --no-install-recommends install unzip dotnet-sdk-3.1; \
     \
     curl -sSL --output docfx.zip https://github.com/dotnet/docfx/releases/download/v2.43.5/docfx.zip; \
     echo "a05cc025382f46d13605a279ad3ae00339af32b486b264c23d41fff4b995d787 *docfx.zip" | sha256sum --check --strict -; \
