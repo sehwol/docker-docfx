@@ -4,6 +4,11 @@
 - **DockerHub Link:** https://hub.docker.com/r/daemoncore/docfx
 
 
+# Supported tags and respective Dockerfile links
+
+- `2.43.5-slim-buster`, `latest`
+
+
 # What is DocFX?
 
 DocFX is a static documentation generator.
