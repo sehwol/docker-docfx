@@ -6,7 +6,7 @@
 
 # Supported tags and respective Dockerfile links
 
-- `2.43.5-slim-buster`, `latest`
+- `2.43.5-buster`, `latest`
 
 
 # What is DocFX?

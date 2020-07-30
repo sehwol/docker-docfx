@@ -1,4 +1,4 @@
-FROM mono:6.10.0.104-slim
+FROM mono:6.10.0.104
 
 RUN set -ex; \
     \
