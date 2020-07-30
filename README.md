@@ -8,4 +8,5 @@
 
 DocFX is a static documentation generator.
 <br/>
-https://github.com/dotnet/docfx
+- https://github.com/dotnet/docfx
+- https://dotnet.github.io/docfx/tutorial/docfx_getting_started.html
