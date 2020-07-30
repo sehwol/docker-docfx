@@ -4,7 +4,7 @@
 - **DockerHub Link:** https://hub.docker.com/r/daemoncore/docfx
 
 
-# What is DocFX
+# What is DocFX?
 
 DocFX is a static documentation generator.
 <br/>
